@@ -1,11 +1,11 @@
-# data-featureWeather-Based Event Finder
+# data-feature weather-Based Event Finder
 
-This Jupyter notebook demonstrates the creation of a simple data feature prototype that helps users find events based on current weather conditions using the Weatherstack API and the GitHub Events API.
+This Jupyter Notebook demonstrates the creation of a simple data feature prototype that helps users find events based on current weather conditions using the Weatherstack API and the GitHub Events API.
 
 Features
 •	Retrieves current weather for a specified city using the Weatherstack API.
 •	Searches for public GitHub events using the GitHub Events API, based on the weather conditions (e.g., outdoor events for sunny weather, indoor events for cloudy/rainy weather).
-•	Displays up to 10 recent GitHub events related to the weather condition in the selected city.
+•	Displays up to 10 recent GitHub events related to the weather conditions in the selected city.
 
 How to Use the Feature
 1. Input a Location:
