@@ -26,6 +26,7 @@ To run this notebook, you will need to set up API keys for:
 Notes:
 API Keys: To utilize this notebook, you must have valid API keys for both the Weatherstack API and the GitHub Events API. 
 Weather Descriptions: The system categorizes weather conditions into broad types (e.g., "Sunny," "Cloudy"). The mapping of these descriptions to event types (e.g., outdoor or indoor) is simplistic and can be customized for more accurate results.
+
 Usage:
 Set Up API Keys:
 
